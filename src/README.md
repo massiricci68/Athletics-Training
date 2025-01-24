@@ -1,9 +1,7 @@
 # ICM42605
 Arduino library for communicating with the [ICM42605](https://invensense.tdk.com/products/motion-tracking/6-axis/icm-42605/) six-axis Inertial Measurement Units (IMU).
 
-It is based on the ICM42688 library, as the register interface between the two gyros is almost identical.
-
-
+It is based on the ICM426XX library TDK Api
 
 # Description
 The InvenSense ICM42605 supports I2C, up to 400 kHz, and SPI communication, up to 1 MHz for register setup and 24 MHz for data reading. The following selectable full scale sensor ranges are available:
@@ -21,7 +19,7 @@ The InvenSense ICM42605 supports I2C, up to 400 kHz, and SPI communication, up t
 
 The ICM42605 samples the gyroscopes, and accelerometers with 16 bit analog to digital converters. It also features programmable digital filters, a precision clock, an embedded temperature sensor, programmable interrupts (including wake on motion), and a 2kB byte FIFO buffer.
 
-Refer to the ICM42688 library from which this library forked until the documentation is ported, proof-read and updated.
+
 
 # Wiring and Pullups
 
