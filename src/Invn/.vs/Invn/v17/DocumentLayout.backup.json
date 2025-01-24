@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\ICM42605.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922C717-795F-B000-84F1-788EF94D3CD2}|..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_fd446309\\SingleFileISense\\_sfi_1eef38ba-a3f2-416a-89b9-56b26924f88e_.vcxproj|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\ICM42605.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922C717-795F-B000-84F1-788EF94D3CD2}|..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_fd446309\\SingleFileISense\\_sfi_1eef38ba-a3f2-416a-89b9-56b26924f88e_.vcxproj|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\registers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDriver_HL.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Drivers\\Icm426xx\\Icm426xxDriver_HL.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDriver_HL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Drivers\\Icm426xx\\Icm426xxDriver_HL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E922C717-795F-B000-84F1-788EF94D3CD2}|..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_fd446309\\SingleFileISense\\_sfi_1eef38ba-a3f2-416a-89b9-56b26924f88e_.vcxproj|C:\\USERS\\ATHLETICS\\DOCUMENTS\\ARDUINO\\LIBRARIES\\ICM42605\\SRC\\INVN\\DRIVERS\\ICM426XX\\ICM426XXDEFS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E922C717-795F-B000-84F1-788EF94D3CD2}|..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_fd446309\\SingleFileISense\\_sfi_1eef38ba-a3f2-416a-89b9-56b26924f88e_.vcxproj|solutionrelative:DRIVERS\\ICM426XX\\ICM426XXDEFS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\inv_time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxTransport.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Drivers\\Icm426xx\\Icm426xxTransport.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxTransport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Drivers\\Icm426xx\\Icm426xxTransport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registers.h",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\registers.h",
+              "RelativeDocumentMoniker": "..\\registers.h",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\registers.h",
+              "RelativeToolTip": "..\\registers.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T10:53:57.295Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Icm426xxTransport.h",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxTransport.h",
+              "RelativeDocumentMoniker": "Drivers\\Icm426xx\\Icm426xxTransport.h",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxTransport.h",
+              "RelativeToolTip": "Drivers\\Icm426xx\\Icm426xxTransport.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAE0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T10:54:20.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Icm426xxTransport.c",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxTransport.c",
+              "RelativeDocumentMoniker": "Drivers\\Icm426xx\\Icm426xxTransport.c",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxTransport.c",
+              "RelativeToolTip": "Drivers\\Icm426xx\\Icm426xxTransport.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-20T10:54:18.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Icm426xxDriver_HL.h",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDriver_HL.h",
+              "RelativeDocumentMoniker": "Drivers\\Icm426xx\\Icm426xxDriver_HL.h",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDriver_HL.h",
+              "RelativeToolTip": "Drivers\\Icm426xx\\Icm426xxDriver_HL.h",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwGQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T10:54:10.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Icm426xxDriver_HL.c",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDriver_HL.c",
+              "RelativeDocumentMoniker": "Drivers\\Icm426xx\\Icm426xxDriver_HL.c",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDriver_HL.c",
+              "RelativeToolTip": "Drivers\\Icm426xx\\Icm426xxDriver_HL.c",
+              "ViewState": "AgIAAL0DAAAAAAAAAAAUwMMDAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-20T10:54:07.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Icm426xxDefs.h",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDefs.h",
+              "RelativeDocumentMoniker": "Drivers\\Icm426xx\\Icm426xxDefs.h",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\Invn\\Drivers\\Icm426xx\\Icm426xxDefs.h",
+              "RelativeToolTip": "Drivers\\Icm426xx\\Icm426xxDefs.h",
+              "ViewState": "AgIAAKABAAAAAAAAAAAUwKQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T10:54:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "inv_time.c",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\inv_time.c",
+              "RelativeDocumentMoniker": "..\\inv_time.c",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\inv_time.c",
+              "RelativeToolTip": "..\\inv_time.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-20T10:53:57.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICM42605.h",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\ICM42605.h",
+              "RelativeDocumentMoniker": "..\\ICM42605.h",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\ICM42605.h",
+              "RelativeToolTip": "..\\ICM42605.h",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwMkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-20T10:53:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICM42605.cpp",
+              "DocumentMoniker": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\ICM42605.cpp",
+              "RelativeDocumentMoniker": "..\\ICM42605.cpp",
+              "ToolTip": "C:\\Users\\Athletics\\Documents\\Arduino\\libraries\\ICM42605\\src\\ICM42605.cpp",
+              "RelativeToolTip": "..\\ICM42605.cpp",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAACcBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T10:53:56.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
