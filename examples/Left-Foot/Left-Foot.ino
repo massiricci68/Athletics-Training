@@ -52,16 +52,22 @@ void setup() {
     Serial.println(status);
     while (1) {}
   }
-  IMU.setAccelODR(ICM42605::odr1k);
-  IMU.setGyroODR(ICM42605::odr1k);
-  IMU.setAccelFS(ICM42605::gpm16);
-   IMU.setGyroFS(ICM42605::dps2000);
-  IMU.setFilters(false, false);
-  IMU.calibrateAccel();
-  IMU.calibrateGyro();
-  IMU.enable_wom(true,28,28,28, WOM_MODE_OR, WOM_MODE_PREV);
-   
-  ////////////////////////////////////////////////////////////
+  IMU.setAccelODR(ICM42605::odr1k);  // set accelerometer frequency 1000hz.
+  IMU.setGyroODR(ICM42605::odr1k);   // set gyro frequency 1000hz.
+  IMU.setAccelFS(ICM42605::gpm16);   //set g-forze scale
+   IMU.setGyroFS(ICM42605::dps2000); // set gyro scale DPS
+  IMU.setFilters(false, false);      // set filtres gyro - accelerometer
+  IMU.calibrateAccel();              // calibrate offset
+  IMU.calibrateGyro();               // calibrate offset 
+  //----------------------------------------------------------------------------------------
+  IMU.enable_wom(true,28,28,28, WOM_MODE_OR, WOM_MODE_PREV); // enable wake-on-motion
+  //IMU.enable_wom(true, X,Y,Z, (WOM_MODE_OR, WOW_MODE_AND), (WOM_MODE_PREV, WOW_MODE_INIT);
+  // X, y, Z  set micro g-forces scale from 0 to 255 
+  // WOM_MODE_OR makes a (or) on all three axes
+  // WOM_MODE_AND makes a (and) on all three axes
+  //----------------------------------------------------------------------------------------
+  
+  
   // Begin WiFi
   WiFi.mode(WIFI_STA);
   WiFi.begin(WIFI_SSID, WIFI_PASS);
